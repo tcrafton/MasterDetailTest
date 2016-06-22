@@ -1,4 +1,4 @@
-# React/Redux Example of Master Detail
+# React/Redux Example of a Master Detail Form
 
 Initial setup created using Stephen Grider's [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter)
 
