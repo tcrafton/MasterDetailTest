@@ -1,9 +1,12 @@
 import React, { Component } from 'react';
+import Overview from './Overview/Overview';
 
 export default class App extends Component {
   render() {
     return (
-      <div>React simple starter</div>
+      <div>
+        <Overview />
+      </div>
     );
   }
 }
